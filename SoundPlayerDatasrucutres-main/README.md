@@ -4,4 +4,4 @@ A small project that implements a sound player dependent on a various data struc
 
 
 
-The features that in the soundplayer it used the Circular queue to play tracks and some algorithms to search on the tracks and add a new playlist.
+The features that in the soundplayer it used the Circular queue to play tracks and some algorithms.
